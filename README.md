@@ -36,5 +36,7 @@ http://jmcauley.ucsd.edu/data/amazon/
 
 - Beauty - reviews
 - Beauty - metadata
+- Health and Personal Care- reviews
+- Health and Personal Care - metadata
 
 
