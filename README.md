@@ -23,7 +23,7 @@ To observe the fluctuations of the negative reviews over a period Time series an
 - Scikit learn
 - Numpy
 - Matplotlib
-- -Tableau
+- Tableau
 
 
 
