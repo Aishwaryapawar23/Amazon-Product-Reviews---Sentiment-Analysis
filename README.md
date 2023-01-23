@@ -36,6 +36,5 @@ http://jmcauley.ucsd.edu/data/amazon/
 
 - Beauty - reviews
 - Beauty - metadata
-- Healthcare - reviews
-- Healthcare - metadata
+
 
