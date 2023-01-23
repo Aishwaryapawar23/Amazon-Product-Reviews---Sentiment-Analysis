@@ -34,8 +34,8 @@ http://jmcauley.ucsd.edu/data/amazon/
 
 4 datasets that I used in this project are (Per-category files):
 
-Beauty - reviews
-Beauty - metadata
-Healthcare - reviews
-Healthcare - metadata
+- Beauty - reviews
+- Beauty - metadata
+- Healthcare - reviews
+- Healthcare - metadata
 
